@@ -89,6 +89,8 @@ I'm also a Twitch streamer and I stream gaming and chatting. I'm always open to 
 ###
 
 <div align="left">
+  <a href="https://github.com/light2k4/MultiScriptInOne" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=light2k4&repo=MultiScriptInOne&show_owner=true&theme=dracula&hide_border=false&show_icons=true&hide_border=true" height="125" alt="MultiScriptInOne"  />
   <a href="https://github.com/light2k4/LightWeb" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=light2k4&repo=LightWeb&show_owner=true&theme=dracula&hide_border=false&show_icons=true&hide_border=true" height="125" alt="LightWeb"  />
   </a>
