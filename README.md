@@ -76,8 +76,8 @@ I'm also a Twitch streamer and I stream gaming and chatting. I'm always open to 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=light2k4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=light2k4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-rd-stats.vercel.app/api?username=light2k4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-rd-stats.vercel.app/api/top-langs?username=light2k4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=light2k4&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
   
 </div>
@@ -90,18 +90,18 @@ I'm also a Twitch streamer and I stream gaming and chatting. I'm always open to 
 
 <div align="left">
   <a href="https://github.com/light2k4/MultiScriptInOne" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=light2k4&repo=MultiScriptInOne&show_owner=true&theme=dracula&hide_border=false&show_icons=true&hide_border=true" height="130" alt="MultiScriptInOne"  />
+    <img src="https://github-rd-stats.vercel.app/api/pin/?username=light2k4&repo=MultiScriptInOne&show_owner=true&theme=dracula&hide_border=false&show_icons=true&hide_border=true" height="130" alt="MultiScriptInOne"  />
   <a href="https://github.com/light2k4/LightWeb" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=light2k4&repo=LightWeb&show_owner=true&theme=dracula&hide_border=false&show_icons=true&hide_border=true" height="130" alt="LightWeb"  />
+    <img src="https://github-rd-stats.vercel.app/api/pin/?username=light2k4&repo=LightWeb&show_owner=true&theme=dracula&hide_border=false&show_icons=true&hide_border=true" height="130" alt="LightWeb"  />
   </a>
   <a href="https://github.com/light2k4/CleaNight" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=light2k4&repo=CleaNight&show_owner=true&theme=dracula&hide_border=false&show_icons=true&hide_border=true" height="130" alt="CleaNight"  />
+    <img src="https://github-rd-stats.vercel.app/api/pin/?username=light2k4&repo=CleaNight&show_owner=true&theme=dracula&hide_border=false&show_icons=true&hide_border=true" height="130" alt="CleaNight"  />
   </a>
   <a href="https://github.com/light2k4/NoLinks" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=light2k4&repo=NoLinks&show_owner=true&theme=dracula&hide_border=false&show_icons=true&hide_border=true" height="130" alt="NoLinks"  />
+    <img src="https://github-rd-stats.vercel.app/api/pin/?username=light2k4&repo=NoLinks&show_owner=true&theme=dracula&hide_border=false&show_icons=true&hide_border=true" height="130" alt="NoLinks"  />
   </a>
   <a href="https://github.com/light2k4/FiveBot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=light2k4&repo=FiveBot&show_owner=true&theme=dracula&hide_border=false&show_icons=true&hide_border=true" height="130" alt="FiveBot"  />
+    <img src="https://github-rd-stats.vercel.app/api/pin/?username=light2k4&repo=FiveBot&show_owner=true&theme=dracula&hide_border=false&show_icons=true&hide_border=true" height="130" alt="FiveBot"  />
   </a>
 </div>
 
