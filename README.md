@@ -103,6 +103,9 @@ I'm also a Twitch streamer and I stream gaming and chatting. I'm always open to 
   <a href="https://github.com/light2k4/FiveBot" target="_blank">
     <img src="https://github-rd-stats.vercel.app/api/pin/?username=light2k4&repo=FiveBot&show_owner=true&theme=dracula&hide_border=false&show_icons=true&hide_border=true" height="130" alt="FiveBot"  />
   </a>
+  <a href="https://github.com/light2k4/MPBot" target="_blank">
+    <img src="https://github-rd-stats.vercel.app/api/pin/?username=light2k4&repo=MPBot&show_owner=true&theme=dracula&hide_border=false&show_icons=true&hide_border=true" height="130" alt="FiveBot"  />
+  </a>
 </div>
 
 ###
